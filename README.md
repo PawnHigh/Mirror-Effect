@@ -1,3 +1,4 @@
 # Imagenes / Efecto Espejo
 
-![alt tag](docs/messi5.jpg)![alt tag](docs/messi5_volteado.jpg)
+![alt text-1](docs/messi5.jpg "it")![alt text-2](docs/messi5_volteado.jpg "it2")
+
